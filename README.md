@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**aaslam12/aaslam12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Altamash and I am a **C++** systems developer interested in **low-latency infrastructure, and performance engineering**. I build performance-critical systems from scratch and focus on writing deterministic, measurable, and efficient code.
 
-Here are some ideas to get you started:
+🔭 Currently building:
+- **Low-Latency Market Data + Matching Engine Simulation** \
+  A multi-threaded trading system simulation designed to model real exchange infrastructure featuring:
+  - Network ingestion (TCP/UDP)
+  - Lock-free communication
+  - Limit order book + matching engine
+  - Microsecond-level latency measurement
+  - Throughput and tail-latency benchmarking
+  - Profiling with perf and flamegraphs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 How to reach me:
+- Email: altamashaslam12@gmail.com
